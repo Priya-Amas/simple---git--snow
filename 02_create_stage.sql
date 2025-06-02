@@ -1,0 +1,1 @@
+CREATE OR REPLACE STAGE my_stage URL='s3://your-bucket/path/' FILE_FORMAT = my_csv_format;

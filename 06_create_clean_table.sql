@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE clean_customer_data (id INT, name STRING, email STRING, updated_at TIMESTAMP);

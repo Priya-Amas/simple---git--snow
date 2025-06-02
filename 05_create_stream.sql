@@ -1,0 +1,1 @@
+CREATE OR REPLACE STREAM raw_customer_data_stream ON TABLE raw_customer_data;

@@ -1,0 +1,1 @@
+CREATE OR REPLACE PIPE my_pipe AUTO_INGEST = TRUE AS COPY INTO raw_customer_data FROM @my_stage;

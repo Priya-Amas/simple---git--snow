@@ -1,0 +1,1 @@
+CREATE OR REPLACE TABLE raw_customer_data (id INT, name STRING, email STRING, updated_at TIMESTAMP);
